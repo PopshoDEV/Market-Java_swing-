@@ -1,0 +1,9 @@
+0 Miniket_Rice_1kg 75.0
+1 Suji_500gm 43.0
+2 Mushur_Dal 118.0
+3 Nazir_Premium_Rice_1kg 80.0
+4 Soyabean_Oil_1_Litre 192.0
+5 Atta_1kg 58.0
+6 Salt_1kg 38.0
+7 Nestle_Koko_Krunch_Duo_350gm 380.0
+8 newItem2 60.0
